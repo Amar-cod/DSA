@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Amar-cod/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amar-cod/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Amar-cod/DSA/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amar-cod/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Amar-cod/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amar-cod/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Amar-cod/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
