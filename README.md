@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amar-cod/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amar-cod/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0436-find-right-interval](https://github.com/Amar-cod/DSA/tree/master/0436-find-right-interval) |
+| [0496-next-greater-element-i](https://github.com/Amar-cod/DSA/tree/master/0496-next-greater-element-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Amar-cod/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amar-cod/DSA/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/Amar-cod/DSA/tree/master/0496-next-greater-element-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Amar-cod/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/Amar-cod/DSA/tree/master/0436-find-right-interval) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Amar-cod/DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Amar-cod/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
