@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Amar-cod/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amar-cod/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amar-cod/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0436-find-right-interval](https://github.com/Amar-cod/DSA/tree/master/0436-find-right-interval) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Amar-cod/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
@@ -57,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Amar-cod/DSA/tree/master/0015-3sum) |
+| [0436-find-right-interval](https://github.com/Amar-cod/DSA/tree/master/0436-find-right-interval) |
+## Binary Search
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/Amar-cod/DSA/tree/master/0436-find-right-interval) |
 <!---LeetCode Topics End-->
