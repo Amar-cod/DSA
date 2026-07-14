@@ -77,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Amar-cod/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Amar-cod/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0572-subtree-of-another-tree](https://github.com/Amar-cod/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Amar-cod/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0572-subtree-of-another-tree](https://github.com/Amar-cod/DSA/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Amar-cod/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Amar-cod/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0572-subtree-of-another-tree](https://github.com/Amar-cod/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -99,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Amar-cod/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Amar-cod/DSA/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
