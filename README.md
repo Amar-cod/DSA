@@ -73,4 +73,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Amar-cod/DSA/tree/master/0496-next-greater-element-i) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Amar-cod/DSA/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Amar-cod/DSA/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Amar-cod/DSA/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Amar-cod/DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Amar-cod/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
